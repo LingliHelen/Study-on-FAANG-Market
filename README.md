@@ -23,3 +23,8 @@ Develop visualizations illustrating stock price trends with annotated market eve
 # How to Run
 1. Clone the repository
 2. Install required packages:
+    yfinance
+    pandas
+    matplotlib
+    datetime
+
