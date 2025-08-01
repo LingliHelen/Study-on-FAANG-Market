@@ -16,11 +16,9 @@ Develop visualizations illustrating stock price trends with annotated market eve
 
 # Tools & Libraries
 - Python
-- yfinance
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- yfinance for data retrieval
+- pandas, numpy for data manipulation
+- matplotlib, seaborn for visualization
 
 # How to Run
 1. Clone the repository
