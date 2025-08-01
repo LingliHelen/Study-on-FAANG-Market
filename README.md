@@ -21,7 +21,6 @@ Develop visualizations illustrating stock price trends with annotated market eve
 - matplotlib, seaborn for visualization
 
 # How to Run
-1. Clone the repository
-2. Install required packages:
-    yfinance，pandas，matplotlib，datetime
+No setup needed — simply click the link below to open and run the notebook directly in **Google Colab**
+
 
