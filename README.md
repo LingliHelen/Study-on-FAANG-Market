@@ -16,11 +16,11 @@ Develop visualizations illustrating stock price trends with annotated market eve
 
 # Tools & Libraries
 - Python
-- yfinance for data retrieval
+- yfinance API for data retrieval
 - pandas, numpy for data manipulation
 - matplotlib, seaborn for visualization
 
 # How to Run
-No setup needed — simply click the link below to open and run the notebook directly in **Google Colab**
+No setup required — just click "Open in Colab" at the top of Market_Impact_on_FAANG.ipynb to open and run the notebook directly in Google Colab.
 
 
