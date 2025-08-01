@@ -3,11 +3,10 @@
 The present project analyzes the impact of major market events on the stock prices of three prominent FAANG stocks: Apple (AAPL), Microsoft (MSFT), and Meta (META). The analysis encompasses a three-year period from August 1, 2022, to August 1, 2025.
 
 # Project Highlights
-Utilize yfinance to retrieve relevant financial data
-Daily returns computation
-Utilize event study methodologies to examine stock price fluctuations around key event dates
-Create visualizations of stock price trends with annotated market events for enhanced interpretability
-Develop visualizations illustrating stock price trends with annotated market events to improve interpretability
+- Using yfinance to retrieve relevant financial data
+- Daily returns computation
+- Utilize event study methodologies to examine stock price fluctuations around key event dates
+- Create visualizations of stock price trends with annotated market events to enhance interpretability
 
 # Market Events Considered
 - Federal Reserve implement an increase in interest rates
