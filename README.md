@@ -1,4 +1,4 @@
-# Impact of Market Events on FAANG Stocks
+# Event Study: Impact of Macroeconomic Announcements on FAANG Stocks
 This project analyzes how major macroeconomic events influence the stock performance of major technology companies including Apple, Microsoft, and Meta.
 
 The analysis covers a three-year period from August 1, 2022, to August 1, 2025, and applies an event study framework to evaluate market reactions around key economic announcements.
@@ -13,7 +13,6 @@ Time period:
 August 1, 2022 – August 1, 2025
 
 Stocks analyzed:
-
 - Apple (AAPL)
 - Microsoft (MSFT)
 - Meta (META)
@@ -33,7 +32,8 @@ The dashed vertical line represents the event date (Day 0), allowing us to obser
 
 ## Key Findings
 The event study suggests that macroeconomic announcements can generate noticeable short-term movements in technology stock returns. 
-Market reactions appear to vary across companies, indicating different sensitivities to macroeconomic news.
+Market reactions appear to vary across companies, indicating different sensitivities to macroeconomic news. 
+These results highlight the importance of macroeconomic information in shaping short-term market behavior.
 
 ## Market Events Considered
 - Federal Reserve interest rate hike announcements
