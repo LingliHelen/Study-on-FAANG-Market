@@ -1,4 +1,5 @@
 # Event Study: Impact of Macroeconomic Announcements on FAANG Stocks
+![FAANG Market Events](faang_market_events.png)
 This project analyzes how major macroeconomic events influence the stock performance of major technology companies including Apple, Microsoft, and Meta.
 
 The analysis covers a three-year period from August 1, 2022, to August 1, 2025, and applies an event study framework to evaluate market reactions around key economic announcements.
