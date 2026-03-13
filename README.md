@@ -3,7 +3,7 @@
 
 This project analyzes how major macroeconomic events influence the stock performance of major technology companies including Apple, Microsoft, and Meta.
 
-The analysis covers a three-year period from August 1, 2022, to August 1, 2025, and applies an event study framework to evaluate market reactions around key economic announcements.
+The analysis covers a three-year period from August 2022 to August 2025 and applies an event study framework to examine market reactions to major macroeconomic announcements.
 
 ## Ressearch Question
 How do major macroeconomic announcements (e.g. Federal Reserve interest rate decisions, inflation releases) impact major technology firms' short-term stock performance?
@@ -36,6 +36,7 @@ The dashed vertical line represents the event date (Day 0), allowing us to obser
 The event study suggests that macroeconomic announcements can generate noticeable short-term movements in technology stock returns. 
 Market reactions appear to vary across companies, indicating different sensitivities to macroeconomic news. 
 These results highlight the importance of macroeconomic information in shaping short-term market behavior.
+The results demonstrate heterogeneous responses across companies, suggesting varying sensitivities to macroeconomic signals.
 
 ## Market Events Considered
 - Federal Reserve interest rate hike announcements
@@ -49,6 +50,6 @@ These results highlight the importance of macroeconomic information in shaping s
 - matplotlib, seaborn for visualization
 
 ## How to Run
-No setup required — just click "Open in Colab" at the top of Market_Impact_on_FAANG.ipynb to open and run the notebook directly in Google Colab.
+No setup required — just click "Open in Colab" at the top of faang_event_study.ipynb to open and run the notebook directly in Google Colab.
 
 
