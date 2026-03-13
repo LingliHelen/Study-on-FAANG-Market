@@ -26,6 +26,8 @@ Stocks analyzed:
 5. Visualize cumulative stock returns around each event to examine market reactions
 
 ## Example Visualization
+Cumulative stock returns around a Federal Reserve interest rate announcement using an event study window of [-5, +5] trading days.
+<img width="1042" height="148" alt="Screenshot 2026-03-13 at 00 48 52" src="https://github.com/user-attachments/assets/a682472a-ae18-4c8d-be46-bc25c5445d3a" />
 
 
 ## Market Events Considered
